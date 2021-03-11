@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm PJ  ![https://www.mypronouns.org/what-and-why](https://img.shields.io/badge/pronouns-he%2Fhim-blueviolet)
+
+
+Outside of my [day job](https://www.evertrue.com), lately I have been working on a side project called [App Of Mapping](https://apps.apple.com/us/app/app-of-mapping/id1463860309). It is an iOS app for creating random dungeons for D&D 5e, with an old school visual aethestic.
+
+The most recent open source work I did was a bunch of poker related apps, you can find them below, but I havn't worked on them recently.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/pj4533?style=social)
+
+
 
 <!--
 **pj4533/pj4533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
